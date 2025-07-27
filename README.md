@@ -60,9 +60,9 @@ Neural network architectures implemented from scratch.
 ### 4. Mathematical Foundations (0 implementations)
 Core mathematical concepts underlying ML algorithms.
 
-| # | Concept | Description | Implementation | Applications | Code Examples |
+| # | Concept | Description | Implementation | Applications | Code Location |
 |---|---------|-------------|----------------|--------------|---------------|
-| 1 | | | | | |
+| 1 | Gradient Descent | Implementation From Scratch & Some Applications | | | /supervised/math-foundations/Optimization/Gradient Descent |
 
 **Concepts to Implement:**
 - **Linear Algebra**: Matrix Operations, Eigendecomposition, SVD, QR Decomposition
