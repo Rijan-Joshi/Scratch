@@ -1,5 +1,5 @@
 # Machine Learning Foundational Concepts
-# This is a dummy readme. Not fully finalized yet
+
 A comprehensive collection of fundamental machine learning algorithms, models, and mathematical concepts implemented from scratch for educational purposes and deep understanding.
 
 ## 📊 Overview
